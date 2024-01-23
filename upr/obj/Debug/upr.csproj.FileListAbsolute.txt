@@ -1,0 +1,7 @@
+C:\Genata\upr\upr\bin\Debug\upr.exe.config
+C:\Genata\upr\upr\bin\Debug\upr.exe
+C:\Genata\upr\upr\bin\Debug\upr.pdb
+C:\Genata\upr\upr\obj\Debug\upr.csproj.AssemblyReference.cache
+C:\Genata\upr\upr\obj\Debug\upr.csproj.CoreCompileInputs.cache
+C:\Genata\upr\upr\obj\Debug\upr.exe
+C:\Genata\upr\upr\obj\Debug\upr.pdb
