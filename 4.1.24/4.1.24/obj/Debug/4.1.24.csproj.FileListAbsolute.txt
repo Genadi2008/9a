@@ -1,0 +1,7 @@
+C:\Genata\4.1.24\4.1.24\bin\Debug\4.1.24.exe.config
+C:\Genata\4.1.24\4.1.24\bin\Debug\4.1.24.exe
+C:\Genata\4.1.24\4.1.24\bin\Debug\4.1.24.pdb
+C:\Genata\4.1.24\4.1.24\obj\Debug\4.1.24.csproj.AssemblyReference.cache
+C:\Genata\4.1.24\4.1.24\obj\Debug\4.1.24.csproj.CoreCompileInputs.cache
+C:\Genata\4.1.24\4.1.24\obj\Debug\4.1.24.exe
+C:\Genata\4.1.24\4.1.24\obj\Debug\4.1.24.pdb
